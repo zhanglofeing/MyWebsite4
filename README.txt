@@ -1,3 +1,3 @@
 ASP.NETCORE
 
-MemoryCache与RedisCache封装支持
+MemoryCache涓嶳edisCache灏佽鏀寔
