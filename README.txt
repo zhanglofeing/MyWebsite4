@@ -1,0 +1,3 @@
+ASP.NETCORE
+
+MemoryCache与RedisCache封装支持
